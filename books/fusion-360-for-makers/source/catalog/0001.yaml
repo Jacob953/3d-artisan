@@ -1,0 +1,282 @@
+source_id: fusion-360-for-makers-2018-epub
+fingerprint: 47b7f2394c4ec442e9ddf4554262af283bf61c2565ea7494b983e44ee6c2f41c
+items:
+- id: epub-0009-0000
+  title: '4 Editing Models: The Modify Menu'
+  path: source/index/epub-0009-0000.yaml
+  preview: '4 Editing Models: The Modify Menu
+
+
+    In this chapter, you’ll learn how to use the Modify menu’s editing tools. We’ll
+    work '
+  locator:
+    href: OPS/c04.xhtml
+    spine_index: 9
+    normalized_char_start: 0
+    normalized_char_end: 4389
+- id: epub-0009-0001
+  title: Split Body
+  path: source/index/epub-0009-0001.yaml
+  preview: The Split Body tool splits a body into two bodies, especially useful for
+    breaking a file into multiple parts for 3D prin
+  locator:
+    href: OPS/c04.xhtml
+    spine_index: 9
+    normalized_char_start: 4389
+    normalized_char_end: 9379
+- id: epub-0009-0002
+  title: Delete
+  path: source/index/epub-0009-0002.yaml
+  preview: 'Figure 4-21: Three ways to delete features and whole models
+
+
+    If one way doesn’t work, try another. For example, the poin'
+  locator:
+    href: OPS/c04.xhtml
+    spine_index: 9
+    normalized_char_start: 9379
+    normalized_char_end: 14367
+- id: epub-0009-0003
+  title: Change Parameters
+  path: source/index/epub-0009-0003.yaml
+  preview: Now apply it to a sketch. I made the dimension text field of a sketch active
+    by entering Edit Sketch mode, right-clickin
+  locator:
+    href: OPS/c04.xhtml
+    spine_index: 9
+    normalized_char_start: 14367
+    normalized_char_end: 19331
+- id: epub-0009-0004
+  title: Model a Puffy Bead
+  path: source/index/epub-0009-0004.yaml
+  preview: 'Figure 4-39: Sketch a circle on the box and extrude it.
+
+
+    Figure 4-40: Select the circular edge and right-click.
+
+
+    Context'
+  locator:
+    href: OPS/c04.xhtml
+    spine_index: 9
+    normalized_char_start: 19331
+    normalized_char_end: 23654
+- id: epub-0010-0000
+  title: 5 Best Practices and Netfabb for Fusion
+  path: source/index/epub-0010-0000.yaml
+  preview: '5 Best Practices and Netfabb for Fusion
+
+
+    You can export any Fusion design as an STL. However, it will not necessarily pr'
+  locator:
+    href: OPS/c05.xhtml
+    spine_index: 10
+    normalized_char_start: 0
+    normalized_char_end: 4811
+- id: epub-0010-0001
+  title: Have Appropriate Clearances
+  path: source/index/epub-0010-0001.yaml
+  preview: Parts that fit snugly together, such as gears and cogs, should have a clearance
+    between 0.1 mm and 0.25 mm built in on a
+  locator:
+    href: OPS/c05.xhtml
+    spine_index: 10
+    normalized_char_start: 4811
+    normalized_char_end: 9600
+- id: epub-0010-0002
+  title: Orient to Preserve Detail
+  path: source/index/epub-0010-0002.yaml
+  preview: Thin layers print better vertically than horizontally. So position thin,
+    detailed models like lithophanes (3D printed ph
+  locator:
+    href: OPS/c05.xhtml
+    spine_index: 10
+    normalized_char_start: 9600
+    normalized_char_end: 14432
+- id: epub-0010-0003
+  title: Netfabb for Fusion
+  path: source/index/epub-0010-0003.yaml
+  preview: Netfabb is an analysis program that has free and pay versions. The Netfabb
+    for Fusion version is free. To install it, go
+  locator:
+    href: OPS/c05.xhtml
+    spine_index: 10
+    normalized_char_start: 14432
+    normalized_char_end: 16816
+- id: epub-0011-0000
+  title: Part II Make Some Stuff
+  path: source/index/epub-0011-0000.yaml
+  preview: 'Part II Make Some Stuff
+
+
+    OceanofPDF.com'
+  locator:
+    href: OPS/p02.xhtml
+    spine_index: 11
+    normalized_char_start: 0
+    normalized_char_end: 39
+- id: epub-0012-0000
+  title: 6 Emoji Wall Art
+  path: source/index/epub-0012-0000.yaml
+  preview: '6 Emoji Wall Art
+
+
+    In this chapter, we’ll turn a web image into wall art using Fusion’s Model workspace,
+    a digital imagin'
+  locator:
+    href: OPS/c06.xhtml
+    spine_index: 12
+    normalized_char_start: 0
+    normalized_char_end: 4064
+- id: epub-0013-0000
+  title: 7 Two Chairs and a Vase
+  path: source/index/epub-0013-0000.yaml
+  preview: '7 Two Chairs and a Vase
+
+
+    In this chapter, we’ll work in the Sculpt workspace and take a couple of short
+    detours through '
+  locator:
+    href: OPS/c07.xhtml
+    spine_index: 13
+    normalized_char_start: 0
+    normalized_char_end: 4849
+- id: epub-0013-0001
+  title: Reduce the STL File’s Polygon Count
+  path: source/index/epub-0013-0001.yaml
+  preview: The dropdown menus offer adaptive (preserves the shape) or uniform (removes
+    polygons uniformly) options. You can also ad
+  locator:
+    href: OPS/c07.xhtml
+    spine_index: 13
+    normalized_char_start: 4849
+    normalized_char_end: 7702
+- id: epub-0014-0000
+  title: 8 Fidget Spinner
+  path: source/index/epub-0014-0000.yaml
+  preview: '8 Fidget Spinner
+
+
+    In this chapter, we’ll make a fidget spinner using a #608RS skate ball bearing
+    as the spinner and thre'
+  locator:
+    href: OPS/c08.xhtml
+    spine_index: 14
+    normalized_char_start: 0
+    normalized_char_end: 3847
+- id: epub-0015-0000
+  title: 9 Gears
+  path: source/index/epub-0015-0000.yaml
+  preview: '9 Gears
+
+
+    In this chapter, we’ll do two things. First, we’ll download and edit a gear from
+    the McMaster-Carr catalog. Sec'
+  locator:
+    href: OPS/c09.xhtml
+    spine_index: 15
+    normalized_char_start: 0
+    normalized_char_end: 4737
+- id: epub-0015-0001
+  title: Generate the Spur Gears
+  path: source/index/epub-0015-0001.yaml
+  preview: Click the Spur Gear tool to open its dialog box, which contains default
+    parameters that you can replace with data you ca
+  locator:
+    href: OPS/c09.xhtml
+    spine_index: 15
+    normalized_char_start: 4737
+    normalized_char_end: 8863
+- id: epub-0016-0000
+  title: 10 Car Phone Mount Assembly
+  path: source/index/epub-0016-0000.yaml
+  preview: '10 Car Phone Mount Assembly
+
+
+    In this chapter, we’ll work off a pencil sketch to make a dashboard mount for
+    a cellphone. '
+  locator:
+    href: OPS/c10.xhtml
+    spine_index: 16
+    normalized_char_start: 0
+    normalized_char_end: 4970
+- id: epub-0016-0001
+  title: Make a Stem
+  path: source/index/epub-0016-0001.yaml
+  preview: Sketch a circle centered on the clip. To do this, first draw a line down
+    the clip’s center (hover the mouse along an edg
+  locator:
+    href: OPS/c10.xhtml
+    spine_index: 16
+    normalized_char_start: 4970
+    normalized_char_end: 9643
+- id: epub-0016-0002
+  title: Position and Extrude the Socket Hole Sketches
+  path: source/index/epub-0016-0002.yaml
+  preview: Position the two socket hole sketches as shown in Figure 10-28 and extrude
+    them through the shelled half-sphere. You can
+  locator:
+    href: OPS/c10.xhtml
+    spine_index: 16
+    normalized_char_start: 9643
+    normalized_char_end: 14478
+- id: epub-0016-0003
+  title: Make an Assembly
+  path: source/index/epub-0016-0003.yaml
+  preview: Next, choose Assemble → Joint (Figure 10-43). A dialog box will appear;
+    click the dropdown arrow to choose the appropria
+  locator:
+    href: OPS/c10.xhtml
+    spine_index: 16
+    normalized_char_start: 14478
+    normalized_char_end: 15143
+- id: epub-0017-0000
+  title: 11 2D Layout
+  path: source/index/epub-0017-0000.yaml
+  preview: '11 2D Layout
+
+
+    In this chapter, we’ll turn the Chapter 9 planetary gear set into a sheet of orthographic,
+    scaled drawings'
+  locator:
+    href: OPS/c11.xhtml
+    spine_index: 17
+    normalized_char_start: 0
+    normalized_char_end: 4940
+- id: epub-0017-0001
+  title: Dimensions
+  path: source/index/epub-0017-0001.yaml
+  preview: Click the item to be dimensioned. You can click points, edges, or existing
+    dimensions, or click two points. Then click t
+  locator:
+    href: OPS/c11.xhtml
+    spine_index: 17
+    normalized_char_start: 4940
+    normalized_char_end: 7974
+- id: epub-0018-0000
+  title: 12 Slicer for Fusion
+  path: source/index/epub-0018-0000.yaml
+  preview: '12 Slicer for Fusion
+
+
+    In this chapter, we’ll use Autodesk’s Slicer for Fusion app to make 2D patterns
+    from a model.
+
+
+    Sli'
+  locator:
+    href: OPS/c12.xhtml
+    spine_index: 18
+    normalized_char_start: 0
+    normalized_char_end: 4961
+- id: epub-0018-0001
+  title: Navigating the Interface
+  path: source/index/epub-0018-0001.yaml
+  preview: 'Navigation/Display panel: This panel contains tools for orbiting, panning,
+    zooming, and displaying the model. Orbit: Hol'
+  locator:
+    href: OPS/c12.xhtml
+    spine_index: 18
+    normalized_char_start: 4961
+    normalized_char_end: 9788
+next: 0002.yaml

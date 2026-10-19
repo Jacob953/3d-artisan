@@ -1,0 +1,21 @@
+format_version: 1
+book_id: fusion-360-for-makers
+revision: 1
+current_capability: null
+current_unit: epub-0004-0000
+current_practice: null
+phase: reading
+pending: null
+activity:
+  mode: reading
+  source_units:
+  - epub-0004-0000
+  text: 已提供 books/fusion-360-for-makers/START-HERE.md 阅读指引。用 EPUB 阅读器打开本书，进入 Preface，从
+    What Is Fusion 360? 读至 Types of Modeling 结束，在 Parametric and Direct Modeling 前停下，查看图
+    P-1 至 P-5。理解 Fusion 的用途及建模方式，为认识界面建立方向。辅助背景：CAD 关注设计模型，CAM 关注制造加工，CAE 关注工程分析；初次阅读不需要同时掌握全部工具。此段基于
+    2018 年原书，实际软件操作时核对当前官方资料。尚无用户已读报告，不评价掌握。
+  status: provided
+  at: '2026-10-19T17:18:02.454701+00:00'
+read_ranges: []
+integrated_units: []
+next_action: follow_user_reading

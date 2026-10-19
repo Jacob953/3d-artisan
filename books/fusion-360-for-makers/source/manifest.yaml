@@ -1,0 +1,8 @@
+source_id: fusion-360-for-makers-2018-epub
+edition: EPUB; publication date 2018-05-01 (metadata)
+location: source/local/fusion-360-for-makers.epub
+sha256: 47b7f2394c4ec442e9ddf4554262af283bf61c2565ea7494b983e44ee6c2f41c
+prepared:
+  catalog: source/catalog.yaml
+  fingerprint: 47b7f2394c4ec442e9ddf4554262af283bf61c2565ea7494b983e44ee6c2f41c
+  format_version: 1

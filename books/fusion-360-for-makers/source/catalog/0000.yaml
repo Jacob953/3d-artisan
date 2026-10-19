@@ -1,0 +1,292 @@
+source_id: fusion-360-for-makers-2018-epub
+fingerprint: 47b7f2394c4ec442e9ddf4554262af283bf61c2565ea7494b983e44ee6c2f41c
+items:
+- id: epub-0000-0000
+  title: cover
+  path: source/index/epub-0000-0000.yaml
+  preview: OceanofPDF.com
+  locator:
+    href: OPS/cover.xhtml
+    spine_index: 0
+    normalized_char_start: 0
+    normalized_char_end: 14
+- id: epub-0001-0000
+  title: toc
+  path: source/index/epub-0001-0000.yaml
+  preview: OceanofPDF.com
+  locator:
+    href: OPS/toc.xhtml
+    spine_index: 1
+    normalized_char_start: 0
+    normalized_char_end: 14
+- id: epub-0002-0000
+  title: Fusion 360 for Makers
+  path: source/index/epub-0002-0000.yaml
+  preview: 'Fusion 360 for Makers
+
+
+    Design Your Own Digital Models for 3D Printing and CNC Fabrication
+
+
+    Lydia Sloan Cline
+
+
+    OceanofPDF'
+  locator:
+    href: OPS/titlepage.xhtml
+    spine_index: 2
+    normalized_char_start: 0
+    normalized_char_end: 124
+- id: epub-0003-0000
+  title: f01
+  path: source/index/epub-0003-0000.yaml
+  preview: 'Copyright © 2018 Lydia Sloan Cline. All rights reserved.
+
+
+    Printed in Canada
+
+
+    Maker Media, Inc.
+
+
+    1700 Montgomery Street, '
+  locator:
+    href: OPS/f01.xhtml
+    spine_index: 3
+    normalized_char_start: 0
+    normalized_char_end: 4291
+- id: epub-0004-0000
+  title: Preface
+  path: source/index/epub-0004-0000.yaml
+  preview: 'Preface
+
+
+    So you have a 3D printer and want to join the new Industrial Revolution! You want
+    to make original designs and '
+  locator:
+    href: OPS/f02.xhtml
+    spine_index: 4
+    normalized_char_start: 0
+    normalized_char_end: 4794
+- id: epub-0004-0001
+  title: Parametric and Direct Modeling
+  path: source/index/epub-0004-0001.yaml
+  preview: Generally speaking, direct modeling is easier and more intuitive than parametric
+    modeling. If you’re already used to wor
+  locator:
+    href: OPS/f02.xhtml
+    spine_index: 4
+    normalized_char_start: 4794
+    normalized_char_end: 9745
+- id: epub-0004-0002
+  title: Definitions
+  path: source/index/epub-0004-0002.yaml
+  preview: 'DXF Drawing Exchange Format file developed by Autodesk. It’s a universal
+    format for storing CAD models.
+
+
+    Face A flat sur'
+  locator:
+    href: OPS/f02.xhtml
+    spine_index: 4
+    normalized_char_start: 9745
+    normalized_char_end: 13300
+- id: epub-0005-0000
+  title: Part I Understanding Fusion 360
+  path: source/index/epub-0005-0000.yaml
+  preview: 'Part I Understanding Fusion 360
+
+
+    OceanofPDF.com'
+  locator:
+    href: OPS/p01.xhtml
+    spine_index: 5
+    normalized_char_start: 0
+    normalized_char_end: 47
+- id: epub-0006-0000
+  title: 1 The Fusion 360 Interface
+  path: source/index/epub-0006-0000.yaml
+  preview: '1 The Fusion 360 Interface
+
+
+    In this chapter we’ll explore Fusion’s interface, navigate it, make some sketches
+    and solids'
+  locator:
+    href: OPS/c01.xhtml
+    spine_index: 6
+    normalized_char_start: 0
+    normalized_char_end: 4776
+- id: epub-0006-0001
+  title: Modeling Workspaces
+  path: source/index/epub-0006-0001.yaml
+  preview: 'Render: Apply realistic colors and textures to the model. It’s only a
+    display and has nothing to do with a physical 3D p'
+  locator:
+    href: OPS/c01.xhtml
+    spine_index: 6
+    normalized_char_start: 4776
+    normalized_char_end: 9760
+- id: epub-0006-0002
+  title: Navigation Panel
+  path: source/index/epub-0006-0002.yaml
+  preview: 'Navigation Panel
+
+
+    The Navigation panel contains tools that let you zoom, pan, and orbit. It also
+    has display settings th'
+  locator:
+    href: OPS/c01.xhtml
+    spine_index: 6
+    normalized_char_start: 9760
+    normalized_char_end: 14718
+- id: epub-0006-0003
+  title: Graphics Diagnostic Tool
+  path: source/index/epub-0006-0003.yaml
+  preview: 'And now that you’ve been introduced to Fusion 360, join me in Chapter
+    2, where you’ll learn how to sketch!
+
+
+    Additional R'
+  locator:
+    href: OPS/c01.xhtml
+    spine_index: 6
+    normalized_char_start: 14718
+    normalized_char_end: 15091
+- id: epub-0007-0000
+  title: 2 Sketching
+  path: source/index/epub-0007-0000.yaml
+  preview: '2 Sketching
+
+
+    In this chapter you’ll learn how to sketch, a fundamental modeling skill. Sketches
+    are what make parametric'
+  locator:
+    href: OPS/c02.xhtml
+    spine_index: 7
+    normalized_char_start: 0
+    normalized_char_end: 4875
+- id: epub-0007-0001
+  title: Sketches and Sketch Curves
+  path: source/index/epub-0007-0001.yaml
+  preview: The terms sketch and sketch curve are used a lot. A complete drawing is
+    a “sketch” and segments of that sketch are “sket
+  locator:
+    href: OPS/c02.xhtml
+    spine_index: 7
+    normalized_char_start: 4875
+    normalized_char_end: 9541
+- id: epub-0007-0002
+  title: Select and Delete Sketches
+  path: source/index/epub-0007-0002.yaml
+  preview: Click the dropdown arrow in front of the word Sketches to see all sketches
+    in the file. A gray bulb in front of the sket
+  locator:
+    href: OPS/c02.xhtml
+    spine_index: 7
+    normalized_char_start: 9541
+    normalized_char_end: 14413
+- id: epub-0007-0003
+  title: TIP
+  path: source/index/epub-0007-0003.yaml
+  preview: Use the Rectangular Pattern tool to make quick copies. In fact, it’s best
+    to use the pattern and mirroring tools when po
+  locator:
+    href: OPS/c02.xhtml
+    spine_index: 7
+    normalized_char_start: 14413
+    normalized_char_end: 19378
+- id: epub-0007-0004
+  title: Sketch Tools
+  path: source/index/epub-0007-0004.yaml
+  preview: '3-Point Arc: This tool in the Arc submenu lets you draw an arc by choosing
+    two endpoints and then a third for the bend ('
+  locator:
+    href: OPS/c02.xhtml
+    spine_index: 7
+    normalized_char_start: 19378
+    normalized_char_end: 24302
+- id: epub-0007-0005
+  title: Sketch Tools
+  path: source/index/epub-0007-0005.yaml
+  preview: 'Offset: This tool makes a copy of the sketch a specified distance from
+    it (Figure 2-43). Click the sketch you want to of'
+  locator:
+    href: OPS/c02.xhtml
+    spine_index: 7
+    normalized_char_start: 24302
+    normalized_char_end: 29251
+- id: epub-0007-0006
+  title: Insert into the Workspace
+  path: source/index/epub-0007-0006.yaml
+  preview: Let’s insert an SVG file. Click Insert → Insert SVG. The origin planes
+    and a navigation folder will appear (Figure 2-55)
+  locator:
+    href: OPS/c02.xhtml
+    spine_index: 7
+    normalized_char_start: 29251
+    normalized_char_end: 32692
+- id: epub-0008-0000
+  title: '3 Making Models: The Create Menu'
+  path: source/index/epub-0008-0000.yaml
+  preview: '3 Making Models: The Create Menu
+
+
+    In this chapter we’ll use the Create menu in the Model, Sculpt, and Patch workspaces
+    t'
+  locator:
+    href: OPS/c03.xhtml
+    spine_index: 8
+    normalized_char_start: 0
+    normalized_char_end: 4999
+- id: epub-0008-0001
+  title: Components
+  path: source/index/epub-0008-0001.yaml
+  preview: 'Components
+
+
+    A component is a container that holds a body. More typically, a component contains
+    multiple bodies, sketches'
+  locator:
+    href: OPS/c03.xhtml
+    spine_index: 8
+    normalized_char_start: 4999
+    normalized_char_end: 9985
+- id: epub-0008-0002
+  title: Sketching for Lofting
+  path: source/index/epub-0008-0002.yaml
+  preview: After you loft all the sketches, you can tweak the loft’s shape by selecting
+    one of the skeleton lines and moving it. Th
+  locator:
+    href: OPS/c03.xhtml
+    spine_index: 8
+    normalized_char_start: 9985
+    normalized_char_end: 14946
+- id: epub-0008-0003
+  title: Pipe and Thicken
+  path: source/index/epub-0008-0003.yaml
+  preview: 'Figure 3-29: The Pipe command along a body edge and along a line
+
+
+    Figure 3-30: Thickening a pipe
+
+
+    Extrude and Loft
+
+
+    Back'
+  locator:
+    href: OPS/c03.xhtml
+    spine_index: 8
+    normalized_char_start: 14946
+    normalized_char_end: 19699
+- id: epub-0008-0004
+  title: Paste
+  path: source/index/epub-0008-0004.yaml
+  preview: If you edit a component and the other instances don’t edit, you might have
+    created a body instead of a component, you mi
+  locator:
+    href: OPS/c03.xhtml
+    spine_index: 8
+    normalized_char_start: 19699
+    normalized_char_end: 22266
+next: 0001.yaml

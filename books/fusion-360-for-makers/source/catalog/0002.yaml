@@ -1,0 +1,174 @@
+source_id: fusion-360-for-makers-2018-epub
+fingerprint: 47b7f2394c4ec442e9ddf4554262af283bf61c2565ea7494b983e44ee6c2f41c
+items:
+- id: epub-0018-0002
+  title: 'Optional: Modify Form'
+  path: source/index/epub-0018-0002.yaml
+  preview: Shrinkwrap affects the whole model, not just a problem slice. So the end
+    product may not look exactly like the model. Ad
+  locator:
+    href: OPS/c12.xhtml
+    spine_index: 18
+    normalized_char_start: 9788
+    normalized_char_end: 14783
+- id: epub-0018-0003
+  title: Radial Slices
+  path: source/index/epub-0018-0003.yaml
+  preview: 'This technique creates radiating slices from a central point (Figure 12-28).
+    Use it on round, symmetrical objects.
+
+
+    Figu'
+  locator:
+    href: OPS/c12.xhtml
+    spine_index: 18
+    normalized_char_start: 14783
+    normalized_char_end: 17757
+- id: epub-0019-0000
+  title: 13 The CAM Workspace
+  path: source/index/epub-0019-0000.yaml
+  preview: '13 The CAM Workspace
+
+
+    Fusion’s computer-aided manufacturing (CAM) workspace creates g-code files for
+    CNC cutting machine'
+  locator:
+    href: OPS/c13.xhtml
+    spine_index: 19
+    normalized_char_start: 0
+    normalized_char_end: 4342
+- id: epub-0019-0001
+  title: The Fusion CAM Workspace
+  path: source/index/epub-0019-0001.yaml
+  preview: 'Actions: This menu has five options. We’ll look at three: Simulate, Post
+    Process, and Setup Sheet (Figure 13-13). Figure'
+  locator:
+    href: OPS/c13.xhtml
+    spine_index: 19
+    normalized_char_start: 4342
+    normalized_char_end: 8924
+- id: epub-0019-0002
+  title: Create a Setup
+  path: source/index/epub-0019-0002.yaml
+  preview: On the dialog box’s Stock tab you’ll see Mode. Click the Relative Size
+    Box option, which makes a stock that’s larger tha
+  locator:
+    href: OPS/c13.xhtml
+    spine_index: 19
+    normalized_char_start: 8924
+    normalized_char_end: 13884
+- id: epub-0019-0003
+  title: Simulate
+  path: source/index/epub-0019-0003.yaml
+  preview: 'Figure 13-34: Click Actions → Simulate.
+
+
+    Figure 13-35: A facsimile of the milling processes shows the toolpath, indicati'
+  locator:
+    href: OPS/c13.xhtml
+    spine_index: 19
+    normalized_char_start: 13884
+    normalized_char_end: 15170
+- id: epub-0020-0000
+  title: Index
+  path: source/index/epub-0020-0000.yaml
+  preview: 'Index
+
+
+    Numbers
+
+
+    2D Layout project. See also Slicer for Fusion project
+
+
+    base views, 223–227
+
+
+    bodies and components, 221
+
+
+    '
+  locator:
+    href: OPS/bindex.xhtml
+    spine_index: 20
+    normalized_char_start: 0
+    normalized_char_end: 4983
+- id: epub-0020-0001
+  title: Index
+  path: source/index/epub-0020-0001.yaml
+  preview: 'filleting model, 156
+
+
+    image, 151
+
+
+    modeling sketch, 154–155
+
+
+    nail hole, 156–158
+
+
+    SVG file, 152–153
+
+
+    end mills, 258
+
+
+    endpo'
+  locator:
+    href: OPS/bindex.xhtml
+    spine_index: 20
+    normalized_char_start: 4983
+    normalized_char_end: 9961
+- id: epub-0020-0002
+  title: Index
+  path: source/index/epub-0020-0002.yaml
+  preview: 'Reverse Normal tool, 126–127
+
+
+    Revolve tool, 69–70
+
+
+    Rib tool, 74. See also Web tool
+
+
+    rigidity, creating, 74
+
+
+    ring gear, m'
+  locator:
+    href: OPS/bindex.xhtml
+    spine_index: 20
+    normalized_char_start: 9961
+    normalized_char_end: 14960
+- id: epub-0020-0003
+  title: Index
+  path: source/index/epub-0020-0003.yaml
+  preview: 'ViewCube, 4, 8–9
+
+
+    viewports, 13–14
+
+
+    views, listing, 10
+
+
+    W
+
+
+    wall thickness, 136–137
+
+
+    warping
+
+
+    minimizing, 139
+
+
+    planes, 12'
+  locator:
+    href: OPS/bindex.xhtml
+    spine_index: 20
+    normalized_char_start: 14960
+    normalized_char_end: 15948
+next: null

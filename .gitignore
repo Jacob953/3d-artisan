@@ -1,0 +1,13 @@
+# Shapeshifter local artifacts
+.shapeshifter/backups/
+.shapeshifter/write.lock
+.shapeshifter/reading-pending/
+**/.cache/
+**/source/local/*
+!**/source/local/.gitkeep
+.DS_Store
+**/source/index/*
+!**/source/index/.gitkeep
+.shapeshifter/sessions/
+
+.shapeshifter/sync-receipt.json

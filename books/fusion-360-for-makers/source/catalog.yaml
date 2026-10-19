@@ -1,0 +1,9 @@
+format_version: 1
+source_id: fusion-360-for-makers-2018-epub
+fingerprint: 47b7f2394c4ec442e9ddf4554262af283bf61c2565ea7494b983e44ee6c2f41c
+fragment_count: 58
+page_size: 24
+first_page: source/catalog/0000.yaml
+page_count: 3
+segmentation: mechanical_fragment
+normalization: block-whitespace-v1

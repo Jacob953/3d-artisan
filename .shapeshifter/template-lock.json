@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "template": "reading",
+  "version": "0.5.0",
+  "files": {
+    ".gitignore": "badb60122f2fc7df49bca38ca889a622cd530c9e25e5829a0c52c010f4f76ab5",
+    "AGENTS.md": "383d452ee6dd99aa6698a3decf405d07f204be383a326a38774a060ee4ebdb7b",
+    "books/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "knowledge/README.md": "b04de1b04a0166ea9c24aaab5f9fc4548d864422a755458791cde25d7a2c9b99",
+    "library.yaml": "06d4b783f51b235abc0b8ff4b549f6286331853bbd248b01f6641a3906ead3da",
+    "rules/READING.md": "d21650916a442850238a1e838d52a0532f04010111a43f11a15a4b1d25b99291",
+    "rules/checkpoint.md": "7724a69e9922ac46f094205d88711205980f85b8e19ed204dac4811188ae6383",
+    "rules/connector.md": "6f4a80fb2d7288127d34145653cdfd0c0bfd65630a60f95d335ec6a688fe79fc",
+    "rules/context.md": "6803423399c9f0cd89582f5a30ee2e38415850f121a9648dbac83bd22cc79357",
+    "rules/data.md": "a02f75ca014a66a510cf2d06b1d4115bf300e25b5aa428b4d76bb4d3d5050920",
+    "rules/evaluate.md": "9c4cf408fc2ddce7720d1a468d02391d91d769ebfa0b91b41c1ff12a5bdf4419",
+    "rules/interaction.md": "d460a56f9a320a6f4e9fcfc33ed059110fa42feec1ea9e3ddce2abae2f52a862",
+    "rules/learn.md": "fc72eb7d707d8f5947a0a971153b3323af280a5ecd252e41dc4ba08788820499",
+    "rules/select.md": "a884636f57130eb812a5513bc68911126be08cc0e6c90f9f1aa0483e47fcbf65",
+    "shapeshifter.yaml": "2385b89379848f90909745661f307c3e03f627010695f9ea3118501b7626063f",
+    "state/reading.yaml": "a6f3af3c5c8564aa36022cc926dd7d8508197f8cf92b3871f03c3d1adfb4ae16"
+  }
+}

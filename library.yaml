@@ -1,0 +1,5 @@
+version: 1
+books:
+- id: fusion-360-for-makers
+  title: Fusion 360 for Makers
+  path: books/fusion-360-for-makers
